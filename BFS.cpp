@@ -1,4 +1,9 @@
 // Hello bro
+void quick_sort()
+{
+
+}
+
 #include<bits/stdc++.h>
 using namespace std;
 class Graph
