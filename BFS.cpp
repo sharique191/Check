@@ -1,5 +1,13 @@
 // Hello bro
+<<<<<<< HEAD
 void quick_sort()
+=======
+
+
+
+
+void merge_sort()
+>>>>>>> merge_sort
 {
 
 }
